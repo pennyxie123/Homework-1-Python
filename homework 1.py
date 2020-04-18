@@ -37,6 +37,18 @@ print(area)
 perimeter = a+b+c
 print(perimeter)
 
+#second trial
+a = 10
+b = 15
+# hypotenuse
+c = (a**2 + b**2)**(0.5)
+print(c)
+#area
+area = 1/2 * a * b
+print(area)
+#perimeter
+perimeter = a+b+c
+print(perimeter)
 
 # Question 2: For any given rectangle, the area is simply its base times its height, and its perimeter
 # is the sum of all four sides. Create a dictionary where the keys are a, b, area, and permieter. Fill
