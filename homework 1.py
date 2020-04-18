@@ -3,7 +3,7 @@
 # Homework 1
 
 
-# Penny Hsieh 12245838
+# Pei Hsuan Hsieh 12245838
 
 # Go to the syllabus and read the section on Academic Integrity before doing this assignment.
 # Please write your code in the space below each question, and make sure that your code runs.
