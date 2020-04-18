@@ -21,6 +21,21 @@
 # length of the hyptenuse, the area of the triangle (one half base times height) and the perimeter
 # (the sum of all three sides)
 
+# values assign to the variables a and b
+a = 3
+b = 4
+
+# length of hypotenuse 
+c = (a**2 + b**2)** (0.5)
+print(c)
+
+# area of triangle
+area = 1/2 * a * b
+print(area)
+
+# perimeter of triangle
+perimeter = a+b+c
+print(perimeter)
 
 
 # Question 2: For any given rectangle, the area is simply its base times its height, and its perimeter
