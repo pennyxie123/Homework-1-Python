@@ -54,7 +54,14 @@ print(perimeter)
 # is the sum of all four sides. Create a dictionary where the keys are a, b, area, and permieter. Fill
 # in any values for a and b, and have the dictionary values for area and permiter calculated.
 
+# create a dictionary for rectangle
+dict_rect = {a:10, b:15, area:a*b, perimeter:(a*2)+(b*2)}
 
+# rectangle area
+dict_rect[area]
+
+#rectangle perimeter
+dict_rect[perimeter]
 
 # Question 3: A palindrome is a word or phrase that is the same both forwards and backwards. Write code
 # that takes a variable of any string, then tests to see whether it qualifies as a palindrome. Make sure
