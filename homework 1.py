@@ -2,7 +2,8 @@
 # Spring 2020
 # Homework 1
 
-# YOUR NAME HERE
+
+# Penny Hsieh 12245838
 
 # Go to the syllabus and read the section on Academic Integrity before doing this assignment.
 # Please write your code in the space below each question, and make sure that your code runs.
